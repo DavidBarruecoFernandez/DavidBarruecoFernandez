@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DavidBarruecoFernandez
 - 👀 I’m interested in quantitative finance and its application to financial risks
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and R
 
 <!---
 DavidBarruecoFernandez/DavidBarruecoFernandez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
